@@ -20,8 +20,8 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 
 ## Programming
 |   | Nome | Corso | Team | Url |
-|![]() | Marco Chechi | Programming | Cutman | [github](https://github.com/Licantropo5)|
 |:---:|---|---|---|---|
+|![]() | Marco Chechi | Programming | Cutman | [github](https://github.com/Licantropo5)|
 |![](./data/AlessioBolognesi/AlessioBolognesi.jpg) | nome cognome | Programming | team name | [GitHub](https://github.com/Bolognesi-Alessio)|
 |![]() | Luca Gunnella | Programming | team bomberman | [GitHub](https://github.com/LucaGunnella)|
 |![]() | Leonardo Martelli | Programming | Team Elecman | [GitHub](https://github.com/LeonardoMartelli-coba)|
@@ -44,7 +44,11 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/AlbertoBandini/cropped.jpg) | nome cognome | Concept Art | team name | [GitHub](https://github.com/zeboo-svg)|
 |![]()| Maria Libera Demarcus| Concept Art | Team Bombman | [GitHub](https://github.com/Weeliox)|
 ![]()| Michele Gabrielli | Concept Art | Team Bombman | [GitHub](https://github.com/MicheleGabrielli)|
+<<<<<<< HEAD
 |![]()| Vittoria Bruni| Concept Art | Team Bombman | [GitHub](https://github.com/Vittoviola)|
+=======
+|![]()| Lorenzo Ferraina | Concept Art | Team Elecman | [GitHub](https://github.com/Lorenzo-Ferraina)|
+>>>>>>> 20699c56f415dd4d10eb5c5b61e5a27482371847
 
 
 
@@ -52,4 +56,4 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 |![](./data/BenedettaBaccari/BenedettaBaccari.jpg) | nome cognome | 3D Game Art | team name | [GitHub](https://github.com/cipincipancake)
-
+|![](./data/BenedettaBaccari/BenedettaBaccari.jpg) | Matteo Ledda | 3D Game Art | BombMan | [GitHub](https://github.com/MatteoLedda)
