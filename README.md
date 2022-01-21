@@ -44,7 +44,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/AlbertoBandini/cropped.jpg) | nome cognome | Concept Art | team name | [GitHub](https://github.com/zeboo-svg)|
 |![]()| Maria Libera Demarcus| Concept Art | Team Bombman | [GitHub](https://github.com/Weeliox)|
 ![]()| Michele Gabrielli | Concept Art | Team Bombman | [GitHub](https://github.com/MicheleGabrielli)|
-
+|![]()| Vittoria Bruni| Concept Art | Team Bombman | [GitHub](https://github.com/Vittoviola)|
 
 
 
