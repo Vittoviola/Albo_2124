@@ -45,7 +45,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![]()| Maria Libera Demarcus| Concept Art | Team Bombman | [GitHub](https://github.com/Weeliox)|
 ![]()| Michele Gabrielli | Concept Art | Team Bombman | [GitHub](https://github.com/MicheleGabrielli)|
 <<<<<<< HEAD
-|![]()| Vittoria Bruni| Concept Art | Team Bombman | [GitHub](https://github.com/Vittoviola)|
+|![](./data/VittoriaBruni/VittoriaBruni.jpg)| Vittoria Bruni| Concept Art | Team Bombman | [GitHub](https://github.com/Vittoviola)|
 =======
 |![]()| Lorenzo Ferraina | Concept Art | Team Elecman | [GitHub](https://github.com/Lorenzo-Ferraina)|
 >>>>>>> 20699c56f415dd4d10eb5c5b61e5a27482371847
